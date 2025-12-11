@@ -1,7 +1,5 @@
 package cafe;
 
-public package cafe;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -15,6 +13,4 @@ public class Main {
 
         cafe1.mostrarInfo();
     }
-} {
-    
 }
